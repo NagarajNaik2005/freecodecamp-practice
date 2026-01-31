@@ -1,4 +1,4 @@
-# HTML Practice
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/> HTML Practice
 
 This folder contains **small HTML files** created to practice and understand
 individual HTML concepts.
