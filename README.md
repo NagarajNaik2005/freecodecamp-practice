@@ -1,5 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-# Web Development Practice Repository
+![Web](https://img.shields.io/badge/Web-Development-blue)# Web Development Practice Repository
 
 This repository is a **central place for my daily web development practice**.  
 It contains small, focused exercises organized by technology and topic.
