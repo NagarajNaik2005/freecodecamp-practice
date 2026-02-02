@@ -1,4 +1,5 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> # Web Development Practice Repository
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+# Web Development Practice Repository
 
 This repository is a **central place for my daily web development practice**.  
 It contains small, focused exercises organized by technology and topic.
