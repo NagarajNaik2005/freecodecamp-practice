@@ -1,4 +1,4 @@
-<img src="webdev_logo.png" width="30">
+<img src="webdev_logo.png" width="50">
 
 # Web Development Practice Repository
 
