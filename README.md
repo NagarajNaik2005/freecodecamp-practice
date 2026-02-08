@@ -1,4 +1,4 @@
-![Web](webdev_logo.png) width="30"
+<img srcwebdev_logo.png" width="30">
 
 # Web Development Practice Repository
 
