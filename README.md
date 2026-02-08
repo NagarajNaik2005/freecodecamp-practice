@@ -1,4 +1,4 @@
-![Web](https://img.shields.io/badge/Web-Development-blue)
+![Web](webdev_logo.png)
 
 # Web Development Practice Repository
 
