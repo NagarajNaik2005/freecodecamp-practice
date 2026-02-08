@@ -1,6 +1,4 @@
-<img src="webdev_logo.png" width="70">
-
-# Web Development Practice Repository
+<img src="webdev_logo.png" width="70"> # Web Development Practice Repository
 
 This repository is a **central place for my daily web development practice**.  
 It contains small, focused exercises organized by technology and topic.
