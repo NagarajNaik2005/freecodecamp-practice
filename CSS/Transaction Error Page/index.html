@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Payment Failed</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
+    <header class="navbar">
+        <h1>MyShop</h1>
+        <p>Payment Status</p>
+    </header>
+
+    <div class="failed-container">
+
+        <div class="failed-card">
+            <div class="cross-icon">✕</div>
+            <h2>Payment Failed</h2>
+            <p>We couldn’t process your payment. Please try again.</p>
+
+            <div class="error-info">
+                <div>
+                    <span>Transaction ID</span>
+                    <strong>#TXN908721</strong>
+                </div>
+                <div>
+                    <span>Reason</span>
+                    <strong>Insufficient Balance</strong>
+                </div>
+                <div>
+                    <span>Amount</span>
+                    <strong>₹6,597</strong>
+                </div>
+            </div>
+
+            <div class="actions">
+                <button class="btn retry">Retry Payment</button>
+                <button class="btn secondary">Back to Cart</button>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
